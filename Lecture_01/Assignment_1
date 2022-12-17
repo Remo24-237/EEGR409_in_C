@@ -10,7 +10,7 @@
 #include<stdio.h>
 #include<math.h>
 
-int Olloumou_Omer(){
+int main(){
 
     /*Declaration and initialization of variables to be used*/
     int run_1 = 10, run_2 = 11, run_3 = 10;
